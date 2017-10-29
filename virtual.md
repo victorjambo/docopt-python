@@ -33,6 +33,10 @@ To install our env from requirements file
 ```bash
 pip install -r requirements.txt
 ```
+To deactivate the environment just run
+```bash
+deactivate
+```
 
 Your folder structure should look like this
 ```bash
