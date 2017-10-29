@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 ## Launching the Program.
 ```
-python app.y
+python app.py
 ```
 ## Running.
 Run ```dojo <command>``` to print the command you entered.
